@@ -1,2 +1,0 @@
-# cpp
-graphics and networking
