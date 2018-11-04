@@ -1,0 +1,3 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (server.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TCP.cpp
+  server.vcxproj -> C:\Users\richard\source\repos\cpp\441\a2\server\Debug\server.exe
